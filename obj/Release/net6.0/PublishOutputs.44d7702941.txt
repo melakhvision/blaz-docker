@@ -1,0 +1,1 @@
+C:\Users\GENIUS-TECH\TodoApi\kapp\bin\Release\net6.0\publish\web.config
